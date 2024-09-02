@@ -1,7 +1,4 @@
-# Weather-Application
-Weather-Application  (IT Shaala Front End BootCamp)
-
-"☀️🌧️⛅ Simple Weather Application"
+# ☀️🌧️⛅ Simple Weather Application
 
 🎮 Overview: This is a user-friendly Weather Application developed using HTML, CSS, and JavaScript. The app fetches real-time weather data using the Fetch API, providing an interactive and visually appealing way to check the weather in any location!
 

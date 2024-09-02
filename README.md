@@ -6,6 +6,4 @@
 
 🌍 How to Use: Enter the name of a city, and the application will display the current weather conditions, including temperature, humidity, and more.
 
-Live Demo: https://adarshbhosale.github.io/weather-application/
-
 Show some ❤️ and ⭐ the repo if you like the design.
